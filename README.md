@@ -1,4 +1,4 @@
-```
+
 # Hi there, I'm Devendra Choudhary 👋
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ## 🙋‍♂️ About Me
 
-```python
+python
 devendra = {
     "name"        : "Devendra Choudhary",
     "location"    : "Jaipur, Rajasthan, India 🇮🇳",
@@ -33,7 +33,7 @@ devendra = {
     "currently"   : "Building production-ready AI solutions with real-world impact",
     "fun_fact"    : "I built a fake news detector that uses 5 ML models + Groq AI 🛡️"
 }
-```
+
 
 ---
 
