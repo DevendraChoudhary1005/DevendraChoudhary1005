@@ -23,16 +23,31 @@
 
 ## 🙋‍♂️ About Me
 
-python
+
+
+```python
+
 devendra = {
-    "name"        : "Devendra Choudhary",
-    "location"    : "Jaipur, Rajasthan, India 🇮🇳",
-    "education"   : "B.Tech CSE — AI & ML Specialization @ JECRC University",
-    "cgpa"        : "8.68 / 10",
-    "focus"       : ["End-to-End ML Systems", "NLP", "Computer Vision", "Deep Learning"],
-    "currently"   : "Building production-ready AI solutions with real-world impact",
-    "fun_fact"    : "I built a fake news detector that uses 5 ML models + Groq AI 🛡️"
+
+    "name"       : "Devendra Choudhary",
+
+    "location"   : "Jaipur, Rajasthan, India 🇮🇳",
+
+    "education"  : "B.Tech CSE — AI & ML Specialization @ JECRC University",
+
+    "cgpa"       : "8.68 / 10",
+
+    "focus"      : ["End-to-End ML Systems", "NLP", "Computer Vision", "Deep Learning"],
+
+    "currently"  : "Building production-ready AI solutions with real-world impact",
+
+    "fun_fact"   : "I built a fake news detector that uses 5 ML models + Groq AI 🛡️"
+
 }
+
+```
+
+
 
 
 ---
