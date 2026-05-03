@@ -1,3 +1,4 @@
+```
 # Hi there, I'm Devendra Choudhary 👋
 
 <div align="center">
@@ -24,13 +25,13 @@
 
 ```python
 devendra = {
-    "name"       : "Devendra Choudhary",
-    "location"   : "Jaipur, Rajasthan, India 🇮🇳",
-    "education"  : "B.Tech CSE — AI & ML Specialization @ JECRC University",
-    "cgpa"       : "8.68 / 10",
-    "focus"      : ["End-to-End ML Systems", "NLP", "Computer Vision", "Deep Learning"],
-    "currently"  : "Building production-ready AI solutions with real-world impact",
-    "fun_fact"   : "I built a fake news detector that uses 5 ML models + Groq AI 🛡️"
+    "name"        : "Devendra Choudhary",
+    "location"    : "Jaipur, Rajasthan, India 🇮🇳",
+    "education"   : "B.Tech CSE — AI & ML Specialization @ JECRC University",
+    "cgpa"        : "8.68 / 10",
+    "focus"       : ["End-to-End ML Systems", "NLP", "Computer Vision", "Deep Learning"],
+    "currently"   : "Building production-ready AI solutions with real-world impact",
+    "fun_fact"    : "I built a fake news detector that uses 5 ML models + Groq AI 🛡️"
 }
 ```
 
@@ -107,6 +108,10 @@ Tech Stack: Python · Scikit-learn · TF-IDF · Streamlit · Groq API · Plotly 
 </div>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=tokyonight" />
 </div>
 
@@ -141,3 +146,4 @@ JECRC University, Jaipur, India | *Expected May 2027* | **CGPA: 8.68 / 10**
 <div align="center">
   <i>"Building AI that doesn't just predict — but explains."</i>
 </div>
+```
