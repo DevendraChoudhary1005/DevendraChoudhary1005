@@ -123,7 +123,7 @@ Tech Stack: Python · Scikit-learn · TF-IDF · Streamlit · Groq API · Plotly 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=transparent" />
 </div>
 
 ---
