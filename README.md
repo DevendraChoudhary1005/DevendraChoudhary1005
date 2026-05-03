@@ -46,10 +46,6 @@ devendra = {
 }
 
 ```
-
-
-
-
 ---
 
 ## 🛠️ Tech Stack
@@ -118,16 +114,16 @@ Tech Stack: Python · Scikit-learn · TF-IDF · Streamlit · Groq API · Plotly 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevendraChoudhary1005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevendraChoudhary1005&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&theme=radical&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=radical" />
 </div>
 
 ---
