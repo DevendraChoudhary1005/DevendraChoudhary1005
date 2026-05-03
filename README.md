@@ -119,11 +119,11 @@ Tech Stack: Python · Scikit-learn · TF-IDF · Streamlit · Groq API · Plotly 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&theme=radical&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&theme=ocean_blue&area=true&hide_border=true" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=ocean_blue" />
 </div>
 
 ---
