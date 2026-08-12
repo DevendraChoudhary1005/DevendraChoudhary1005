@@ -1,151 +1,242 @@
-# Hi there, I'm Devendra Choudhary 👋
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=600&lines=CS+Undergraduate+%7C+AI+%26+ML+Specialization;End-to-End+ML+Systems+Builder;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Production-Ready+AI+Solutions)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0D1117&height=220&section=header&text=Devendra%20Choudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20of%20End-to-End%20Systems&descAlignY=58&descSize=18"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devendra-choudhary-dc101005)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dchoudhary10102005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevendraChoudhary1005)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=650&lines=Hybrid+ML+%2B+LLM+Systems+Builder;Fake+News+Detection+%40+96.77%25+Accuracy;Cloud+Security+%26+Anomaly+Detection;Multi-Agent+RAG+Applications;Turning+Messy+Data+Into+Real+Decisions)](https://git.io/typing-svg)
 
----
+<p>
+<a href="https://www.linkedin.com/in/devendra-choudhary-dc101005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:dchoudhary10102005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/DevendraChoudhary1005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
-## 🙋‍♂️ About Me
+<img src="https://komarev.com/ghpvc/?username=DevendraChoudhary1005&color=1a56db&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+## 🧭 Quick Nav
+
+<div align="center">
+
+[⚡ About](#-about-me) · [🚀 Flagship Builds](#-flagship-builds) · [🧰 Toolbox](#-toolbox) · [💼 Experience](#-experience) · [📊 GitHub Stats](#-github-activity) · [🏆 Trophies](#-trophy-case) · [📫 Connect](#-lets-build-something)
+
+</div>
+
+<br/>
+
+## ⚡ About Me
 
 ```python
-devendra = {
-    "name"       : "Devendra Choudhary",
-    "location"   : "Jaipur, Rajasthan, India 🇮🇳",
-    "education"  : "B.Tech CSE — AI & ML Specialization @ JECRC University",
-    "cgpa"       : "8.68 / 10",
-    "focus"      : ["End-to-End ML Systems", "NLP", "Computer Vision", "Deep Learning"],
-    "currently"  : "Building production-ready AI solutions with real-world impact",
-    "fun_fact"   : "I built a fake news detector that uses 5 ML models + Groq AI 🛡️"
-}
+class Devendra:
+    def __init__(self):
+        self.role        = "CS Undergraduate — AI & ML Specialization"
+        self.university  = "JECRC University, Jaipur"
+        self.cgpa        = 8.68  # /10
+        self.grad_year   = 2027
+        self.focus       = ["Hybrid ML+LLM Systems", "NLP", "Anomaly Detection", "Agentic RAG"]
+        self.philosophy  = "Ship it end-to-end — a model isn't done until someone can use it."
+
+    def currently_building(self):
+        return "AI that doesn't just predict — it explains, and knows when to ask for help."
+
+me = Devendra()
 ```
 
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=DevendraChoudhary1005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+- 🔭 Currently building **ThreatVision** — an AI-powered cloud security monitoring platform
+- 🧠 Obsessed with systems that combine **classical ML + LLMs** — fast *and* smart, not one or the other
+- 📊 Ranked in a **Kaggle anomaly-detection competition** (CEIP-DS-JECRC) — imbalanced multivariate time-series, XGBoost, PR-AUC optimization
+- 🌱 Always learning — currently deepening my grip on cloud-native security and agentic AI workflows
+- ⚡ Fun fact: my fake-news detector automatically calls in a bigger LLM only when it's genuinely unsure — it knows its own limits
+
+<br clear="right"/>
+
 ---
 
-## 🗂️ My Repositories
+## 🚀 Flagship Builds
 
-### 🛡️ [Credible2.0](https://github.com/DevendraChoudhary1005/Credible2.0)
-> **Hybrid Fake News Detection Platform**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A dual-engine AI platform that combines **5 ML classifiers** with **Groq AI (Llama 3.3 70B)** to detect fake news with explainable verdicts, source citations, and real-time web fact-checking.
+### 🛡️ [CREDIBLE](https://github.com/DevendraChoudhary1005/Credible2.0)
+**Hybrid Fake News Detection Platform**
 
-| Feature | Details |
+A dual-engine system: a 5-model ML ensemble handles most predictions instantly, and automatically hands off to an LLM only when confidence is low.
+
+```
+Dataset     72,134 articles (WELFake)
+Accuracy    96.77% (weighted voting ensemble)
+Fallback    Groq · Llama 3.3 70B
+Interface   Streamlit — live, interactive
+```
+
+**Models:** Logistic Regression · Random Forest · Naive Bayes · Gradient Boosting · Linear SVC
+
+`Python` `scikit-learn` `Groq API` `Streamlit` `Plotly`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕵️ [ThreatVision](https://github.com/DevendraChoudhary1005/ThreatVision)
+**AI-Powered Cloud Security Monitoring**
+
+Analyzes system logs in real time to flag brute-force attempts, unauthorized access, and irregular activity — before it becomes a breach.
+
+```
+Detection   Isolation Forest + UBA
+Scoring     Risk-level threat model
+Signals     Login patterns · Geo-IP · Event frequency
+Deployment  Docker · AWS
+```
+
+**Approach:** statistical anomaly detection over rigid rule-matching — catches what a static rulebook would miss.
+
+`Python` `scikit-learn` `FastAPI` `Docker` `AWS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [ClauseGuard](https://github.com/DevendraChoudhary1005/ClauseGuard)
+**Multi-Agent RAG Document Assistant**
+
+A full-stack agentic system for semantic search and Q&A over PDFs — citation-backed, not just plausible-sounding.
+
+```
+Agent       LangGraph ReAct · Groq Llama 3.1
+Retrieval   PostgreSQL + pgvector (cosine similarity)
+Ingestion   Docling → async pipeline → live status
+```
+
+`FastAPI` `LangGraph` `pgvector` `Docling` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 Kaggle — CEIP-DS-JECRC
+**Imbalanced Time-Series Anomaly Detection**
+
+Multivariate sensor data, ~1% real anomalies — accuracy is a trap here, so the real work was elsewhere.
+
+```
+Model       XGBoost
+Metric      PR-AUC (not accuracy — on purpose)
+Challenge   Severe class imbalance
+```
+
+**Key insight:** discrete log-encoded sensors needed custom binary indicator features — rolling averages alone hid the signal.
+
+`Python` `XGBoost` `Feature Engineering`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📚 <b>Foundational repos</b> (learning-in-public, click to expand)</summary>
+<br/>
+
+| Repo | What's inside |
 |---|---|
-| 🧠 **ML Engine** | Weighted Voting Ensemble — LR, RF, NB, GBC, LinearSVC |
-| 📊 **Dataset** | WELFake — 72,134 articles from 4 diverse sources |
-| 🎯 **Accuracy** | 96.78% ensemble accuracy |
-| 🤖 **AI Fallback** | Groq API (Llama 3.3 70B) for low-confidence & short claims |
-| 💡 **Explainability** | Reasoning output + red-flag detection + source citation |
-| 🖥️ **Frontend** | Streamlit dashboard with radar chart, gauge, donut charts |
+| [Basics-Of-Python](https://github.com/DevendraChoudhary1005/Basics-Of-Python) | Practical Python fundamentals — scripting → data science basics |
+| [Object-Oriented-Programming](https://github.com/DevendraChoudhary1005/Object-Oriented-Programming) | Encapsulation, Inheritance, Polymorphism, Abstraction — clean examples |
+| [Functions](https://github.com/DevendraChoudhary1005/Functions) | Python functions, decorators, closures, higher-order functions |
+| [File-and-Exception-Handling](https://github.com/DevendraChoudhary1005/File-and-Exception-Handling) | Secure file I/O, context managers, production-grade error handling |
 
-`Python` `Scikit-learn` `TF-IDF` `Streamlit` `Groq API` `Plotly` `WELFake`
+</details>
 
 ---
 
-### 🐍 [Basics-Of-Python](https://github.com/DevendraChoudhary1005/Basics-Of-Python)
-> **Hands-On Python Fundamentals**
+## 🧰 Toolbox
 
-Stop Googling "how to code" and start doing it! A practical, hands-on guide to the Python language — from scripting basics to data science foundations. Whether you're automating boring tasks or prepping for ML, these notebooks have you covered.
+<div align="center">
 
-`Jupyter Notebook` `Python` `Data Science` `Automation`
+**ML & Deep Learning**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv" />
 
----
+**NLP, AI & Agents**
+<br/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/> <img src="https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white"/>
 
-### 🏗️ [Object-Oriented-Programming](https://github.com/DevendraChoudhary1005/Object-Oriented-Programming)
-> **OOP in Python — Structured & Comprehensive**
+**Data & Analysis**
+<br/>
+<img src="https://skillicons.dev/icons?i=pandas" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 
-A structured collection of Object-Oriented Programming implementations in Python, exploring the foundational pillars — **Encapsulation, Inheritance, Polymorphism, and Abstraction** — with clean, well-commented examples.
+**Backend, Infra & Deployment**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,docker,git,aws,postgres" />
 
-`Jupyter Notebook` `Python` `OOP` `Design Patterns`
+**Tools**
+<br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
 
----
-
-### ⚙️ [Functions](https://github.com/DevendraChoudhary1005/Functions)
-> **Mastering Python Functions — The Building Blocks**
-
-A dedicated space for mastering Python functions before diving into complex AI models and neural networks. Covers everything from basic definitions to decorators, closures, and higher-order functions.
-
-`Jupyter Notebook` `Python` `Functional Programming`
-
----
-
-### 📂 [File-and-Exception-Handling](https://github.com/DevendraChoudhary1005/File-and-Exception-Handling)
-> **Secure File I/O & Robust Exception Handling**
-
-A comprehensive collection of Python implementations focused on secure File I/O and robust Exception Handling. Demonstrates clean coding practices, resource management using context managers, and production-grade error handling patterns.
-
-`Jupyter Notebook` `Python` `File I/O` `Error Handling`
-
----
-
-## 🛠️ Tech Stack
-
-### 🤖 ML & Deep Learning
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=xgboost&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-### 🧠 NLP & AI
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq_API-F55036?style=flat-square&logo=groq&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
-
-### 📊 Python Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
-
-### 🚀 Tools & Deployment
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+</div>
 
 ---
 
 ## 💼 Experience
 
-**AI Intern @ IntersElite** *(Oct 2023 – Dec 2023)*
-- 📈 Built a **Stock Analysis platform** using AutoTS & yfinance API on 2 years of historical data
-- 💬 Classified **Flipkart product reviews** (positive/negative/neutral) using NLTK VADER sentiment analysis
+<table>
+<tr><td>
 
----
+**AI / Software Engineering Intern** — IntersElite · *Oct 2023 – Dec 2023 · Remote*
 
-## 📈 GitHub Stats
+- 📈 Built a **Stock Analysis platform** using AutoTS & yFinance API on 2 years of OHLCV data — surfacing price trends and market signals for stakeholders
+- 💬 Ran **sentiment analysis on Flipkart product reviews** (NLTK VADER) as an additional signal layer
+- 🔁 Worked in agile sprints — requirement discussions, code review, and iterative delivery with regular stakeholder check-ins
 
-[![Devendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevendraChoudhary1005&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/DevendraChoudhary1005)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=radical)](https://github.com/DevendraChoudhary1005)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&bg_color=0D1117&color=1A56DB&line=1A56DB&point=FFFFFF&area=true&hide_border=true)](https://github.com/DevendraChoudhary1005)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=transparent)](https://github.com/DevendraChoudhary1005)
+</td></tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
 **B.Tech, CSE — AI & ML Specialization**
-JECRC University, Jaipur, India | *Expected May 2027* | **CGPA: 8.68 / 10**
+JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Activity
 
-| Platform | Link |
-|---|---|
-| 📧 Email | dchoudhary10102005@gmail.com |
-| 💼 LinkedIn | [devendra-choudhary-dc101005](https://www.linkedin.com/in/devendra-choudhary-dc101005) |
-| 🐙 GitHub | [DevendraChoudhary1005](https://github.com/DevendraChoudhary1005) |
-| 📍 Location | Jaipur, Rajasthan, India |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&bg_color=0D1117&color=1A56DB&line=1A56DB&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+## 🏆 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=DevendraChoudhary1005&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</div>
 
 ---
 
-[![Profile Views](https://komarev.com/ghpvc/?username=DevendraChoudhary1005&color=1a56db&style=flat-square&label=Profile+Views)](https://github.com/DevendraChoudhary1005)
+## 📫 Let's Build Something
 
-*"Building AI that doesn't just predict — but explains."*
+<div align="center">
+
+Open to **AI/ML Engineer**, **Data Analyst**, and **Software Engineering** roles & internships.
+If you're working on something that combines real data with real impact — let's talk.
+
+<a href="mailto:dchoudhary10102005@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devendra-choudhary-dc101005"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<br/><br/>
+
+*"Building AI that doesn't just predict — it explains, and knows when to ask for help."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1A56DB&height=100&section=footer"/>
+
+</div>
