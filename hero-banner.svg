@@ -1,0 +1,82 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0E1A"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#0A1128"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#22D3EE" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3"/>
+    </filter>
+    <style>
+      @keyframes drift1 { 0%{transform:translate(0,0);} 50%{transform:translate(18px,-14px);} 100%{transform:translate(0,0);} }
+      @keyframes drift2 { 0%{transform:translate(0,0);} 50%{transform:translate(-22px,10px);} 100%{transform:translate(0,0);} }
+      @keyframes drift3 { 0%{transform:translate(0,0);} 50%{transform:translate(14px,18px);} 100%{transform:translate(0,0);} }
+      @keyframes pulse { 0%,100%{opacity:0.35;} 50%{opacity:1;} }
+      @keyframes pulseSlow { 0%,100%{opacity:0.5;} 50%{opacity:0.95;} }
+      @keyframes dashMove { to { stroke-dashoffset: -200; } }
+      @keyframes textGlow { 0%,100%{ filter: drop-shadow(0 0 6px rgba(59,130,246,0.55)); } 50%{ filter: drop-shadow(0 0 16px rgba(34,211,238,0.85)); } }
+      .n1{ animation: drift1 9s ease-in-out infinite; }
+      .n2{ animation: drift2 11s ease-in-out infinite; }
+      .n3{ animation: drift3 7.5s ease-in-out infinite; }
+      .n4{ animation: drift2 13s ease-in-out infinite; }
+      .n5{ animation: drift1 8.5s ease-in-out infinite; }
+      .n6{ animation: drift3 10s ease-in-out infinite; }
+      .n7{ animation: drift1 12s ease-in-out infinite; }
+      .n8{ animation: drift2 9.5s ease-in-out infinite; }
+      .p-fast{ animation: pulse 3s ease-in-out infinite; }
+      .p-slow{ animation: pulseSlow 5s ease-in-out infinite; }
+      .edge{ stroke-dasharray: 6 10; animation: dashMove 6s linear infinite; }
+      .brand{ animation: textGlow 4s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+
+  <g opacity="0.9">
+    <circle cx="150" cy="70" r="80" fill="url(#glow)" class="n1" opacity="0.25"/>
+    <circle cx="1020" cy="220" r="90" fill="url(#glowCyan)" class="n2" opacity="0.22"/>
+    <circle cx="620" cy="40" r="60" fill="url(#glow)" class="n3" opacity="0.18"/>
+  </g>
+
+  <g stroke="#3B82F6" stroke-width="1" fill="none" opacity="0.35">
+    <line class="edge" x1="120" y1="90" x2="320" y2="60"/>
+    <line class="edge" x1="320" y1="60" x2="480" y2="140"/>
+    <line class="edge" x1="480" y1="140" x2="680" y2="70"/>
+    <line class="edge" x1="680" y1="70" x2="860" y2="150"/>
+    <line class="edge" x1="860" y1="150" x2="1040" y2="90"/>
+    <line class="edge" x1="320" y1="60" x2="420" y2="220"/>
+    <line class="edge" x1="480" y1="140" x2="620" y2="230"/>
+    <line class="edge" x1="680" y1="70" x2="780" y2="210"/>
+    <line class="edge" x1="860" y1="150" x2="960" y2="250"/>
+    <line class="edge" x1="140" y1="200" x2="320" y2="60"/>
+    <line class="edge" x1="140" y1="200" x2="420" y2="220"/>
+  </g>
+
+  <g fill="#22D3EE">
+    <circle class="n1 p-fast" cx="120" cy="90" r="3.5"/>
+    <circle class="n2 p-slow" cx="320" cy="60" r="4"/>
+    <circle class="n3 p-fast" cx="480" cy="140" r="3"/>
+    <circle class="n4 p-slow" cx="680" cy="70" r="4.5"/>
+    <circle class="n5 p-fast" cx="860" cy="150" r="3.5"/>
+    <circle class="n6 p-slow" cx="1040" cy="90" r="4"/>
+    <circle class="n7 p-fast" cx="420" cy="220" r="3"/>
+    <circle class="n8 p-slow" cx="620" cy="230" r="3.5"/>
+    <circle class="n1 p-fast" cx="780" cy="210" r="3"/>
+    <circle class="n2 p-slow" cx="960" cy="250" r="4"/>
+    <circle class="n3 p-fast" cx="140" cy="200" r="3.5"/>
+  </g>
+
+  <g text-anchor="middle" font-family="Consolas, 'Courier New', monospace">
+    <text x="600" y="150" font-size="52" font-weight="700" fill="#F1F5F9" class="brand" letter-spacing="2">DEVENDRA CHOUDHARY</text>
+    <text x="600" y="188" font-size="18" fill="#7DD3FC" letter-spacing="1">AI &amp; ML Engineer&#160;&#160;·&#160;&#160;Hybrid ML+LLM Systems&#160;&#160;·&#160;&#160;Builder</text>
+  </g>
+</svg>
