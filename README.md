@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A56DB,100:0D1117&height=220&section=header&text=Devendra%20Choudhary&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Builder%20of%20End-to-End%20Systems&descAlignY=58&descSize=18"/>
+<img src="https://raw.githubusercontent.com/DevendraChoudhary1005/DevendraChoudhary1005/main/hero-banner.svg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=1A56DB&center=true&vCenter=true&width=650&lines=Hybrid+ML+%2B+LLM+Systems+Builder;Fake+News+Detection+%40+96.77%25+Accuracy;Cloud+Security+%26+Anomaly+Detection;Multi-Agent+RAG+Applications;Turning+Messy+Data+Into+Real+Decisions)](https://git.io/typing-svg)
 
