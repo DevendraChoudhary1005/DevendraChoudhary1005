@@ -14,6 +14,8 @@
 
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:1A56DB,100:0D1117&height=100&section=header"/>
+
 <br/>
 
 ## 🧭 Quick Nav
@@ -44,7 +46,7 @@ class Devendra:
 me = Devendra()
 ```
 
-<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=DevendraChoudhary1005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=DevendraChoudhary1005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&border_radius=10"/>
 
 - 🔭 Currently building **ThreatVision** — an AI-powered cloud security monitoring platform
 - 🧠 Obsessed with systems that combine **classical ML + LLMs** — fast *and* smart, not one or the other
@@ -54,7 +56,13 @@ me = Devendra()
 
 <br clear="right"/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1A56DB&center=true&vCenter=true&width=550&lines=Here's+what+I've+actually+shipped+%F0%9F%91%87)](https://git.io/typing-svg)
+
+</div>
 
 ## 🚀 Flagship Builds
 
@@ -150,7 +158,7 @@ Challenge   Severe class imbalance
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
 
 ## 🧰 Toolbox
 
@@ -178,7 +186,7 @@ Challenge   Severe class imbalance
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
 
 ## 💼 Experience
 
@@ -201,15 +209,25 @@ Challenge   Severe class imbalance
 **B.Tech, CSE — AI & ML Specialization**
 JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/DevendraChoudhary1005/DevendraChoudhary1005/output/github-contribution-grid-snake.svg" width="100%"/>
+
+<sub>Live and moving — eats through my contribution graph daily via GitHub Actions. <a href="#-setting-up-the-snake-one-time-setup">Setup instructions below.</a></sub>
+
+</div>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&bg_color=0D1117&color=1A56DB&line=1A56DB&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -218,8 +236,12 @@ JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevendraChoudhary1005&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevendraChoudhary1005&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1A56DB&center=true&vCenter=true&width=550&lines=Let's+build+something+worth+shipping+%E2%86%93)](https://git.io/typing-svg)
 
 ---
 
