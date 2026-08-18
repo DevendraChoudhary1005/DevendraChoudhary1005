@@ -211,13 +211,11 @@ JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
 
-## 🐍 Contribution Snake
+## 📅 Contribution Calendar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/DevendraChoudhary1005/DevendraChoudhary1005/output/github-contribution-grid-snake.svg" width="100%"/>
-
-<sub>Live and moving — eats through my contribution graph daily via GitHub Actions. <a href="#-setting-up-the-snake-one-time-setup">Setup instructions below.</a></sub>
+<img src="https://ghchart.rshah.org/1A56DB/DevendraChoudhary1005" width="100%"/>
 
 </div>
 
