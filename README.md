@@ -8,6 +8,7 @@
 <a href="https://www.linkedin.com/in/devendra-choudhary-dc101005"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dchoudhary10102005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/DevendraChoudhary1005"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Devendra_Choudhary/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=DevendraChoudhary1005&color=1a56db&style=for-the-badge&label=PROFILE+VIEWS"/>
@@ -22,7 +23,7 @@
 
 <div align="center">
 
-[⚡ About](#-about-me) · [🚀 Flagship Builds](#-flagship-builds) · [🧰 Toolbox](#-toolbox) · [💼 Experience](#-experience) · [📊 GitHub Stats](#-github-activity) · [🏆 Trophies](#-trophy-case) · [📫 Connect](#-lets-build-something)
+[⚡ About](#-about-me) · [🚀 Flagship Builds](#-flagship-builds) · [🧰 Toolbox](#-toolbox) · [💼 Experience](#-experience) · [🧩 LeetCode](#-leetcode) · [📊 GitHub Stats](#-github-activity) · [🏆 Trophies](#-trophy-case) · [📫 Connect](#-lets-build-something)
 
 </div>
 
@@ -211,6 +212,24 @@ JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
 
+## 🧩 LeetCode
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Devendra_Choudhary?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/u/Devendra_Choudhary/)
+
+<br/>
+
+| 🏆 Problems Solved | 🌍 Global Rank | 🥇 Badges | 🐍 Primary Language |
+|:---:|:---:|:---:|:---:|
+| **239** | **709,861** | 🔥 50 Days · 💯 100 Days (2026) | Python3 |
+
+**Top Skills:** `Dynamic Programming` `Backtracking` `Game Theory` `Math` `Hash Table` `Binary Search` `Arrays`
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
+
 ## 📅 Contribution Calendar
 
 <div align="center">
@@ -252,6 +271,7 @@ If you're working on something that combines real data with real impact — let'
 
 <a href="mailto:dchoudhary10102005@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/devendra-choudhary-dc101005"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://leetcode.com/u/Devendra_Choudhary/"><img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 <br/><br/>
 
