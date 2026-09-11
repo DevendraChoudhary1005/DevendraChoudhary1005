@@ -244,7 +244,7 @@ JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevendraChoudhary1005&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevendraChoudhary1005&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com/?user=DevendraChoudhary1005&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevendraChoudhary1005&bg_color=0D1117&color=1A56DB&line=1A56DB&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -253,12 +253,12 @@ JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
 ## 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=DevendraChoudhary1005&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DevendraChoudhary1005&theme=radical&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1A56DB&center=true&vCenter=true&width=550&lines=Let's+build+something+worth+shipping+%E2%86%93)](https://git.io/typing-svg)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=1A56DB&center=true&vCenter=true&width=550&lines=Let's+build+something+worth+shipping+%E2%86%93)](https://git.io/typing-svg)
 
 ---
 
