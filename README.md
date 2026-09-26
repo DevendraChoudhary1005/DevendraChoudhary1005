@@ -36,7 +36,7 @@ class Devendra:
     def __init__(self):
         self.role        = "CS Undergraduate — AI & ML Specialization"
         self.university  = "JECRC University, Jaipur"
-        self.cgpa        = 8.68  # /10
+        self.cgpa        = 8.69  # /10
         self.grad_year   = 2027
         self.focus       = ["Hybrid ML+LLM Systems", "NLP", "Anomaly Detection", "Agentic RAG"]
         self.philosophy  = "Ship it end-to-end — a model isn't done until someone can use it."
@@ -208,7 +208,7 @@ Challenge   Severe class imbalance
 ## 🎓 Education
 
 **B.Tech, CSE — AI & ML Specialization**
-JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.68 / 10**
+JECRC University, Jaipur, India · Jul 2023 – Jun 2027 · **CGPA: 8.69 / 10**
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1A56DB,100:0D1117&height=3&section=header"/>
 
